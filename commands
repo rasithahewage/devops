@@ -1,0 +1,44 @@
+ 475  mkdir qf-pets
+  476  cd qf-pets/
+  477  ls -lrt
+  478  devops
+  479  mkdir devops
+  480  pwd
+  481  cd devops/
+  482  pwd
+  483  cler
+  484  clear
+  485  ls -lrrt
+  486  lsplrt
+  487  ls -lrt
+  488  mkdir terraform
+  489  mkdir pipelines
+  490  mkdir ansible
+  491  ls -lrt
+  492  touch terraform/main.tf
+  493  touch ansible/site.yml
+  494  touch pipelines/Jenkinsfile
+  495  ls -lrt
+  496  pwd
+  497  git 
+  498  pwd
+  499  tree ../devops
+  500  git status
+  501  pwd
+  502  ls -lrt
+  503  git status
+  504  git log
+  505  git commit --amend
+  506  git log
+  507  git commit --help
+  508  pwd
+  509  ls p-lrt
+  510  ls -lrt
+  511  git log
+  512  git push
+  513  git remote add origin git@github.com:qf-pets/devops.git
+  514  git remote -v
+  515  git branch
+  516  git push origin main
+  517  ssh-keygen
+  518  cat /Users/ravi/.ssh/id_rsa.pub
